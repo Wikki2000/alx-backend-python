@@ -4,6 +4,6 @@
 """
 
 
-def to_str(n: n) -> str:
+def to_str(n: float) -> str:
     """ Convert float to string """
     return str(n)
